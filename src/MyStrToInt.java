@@ -18,7 +18,7 @@ public class MyStrToInt {
 	 * @param character
 	 * @return digit number
 	 */
-	protected int getNumber(char character) {
+	private int getNumber(char character) {
 
 		for (int i = 0; i < charNumberList.length; ++i) {
 			if (character == charNumberList[i]) {
