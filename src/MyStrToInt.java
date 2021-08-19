@@ -1,6 +1,6 @@
 
 /**
- * This has function to convert from string that contains mix characters into integer<br>
+ * This class has function to convert from string that contains mix characters into integer<br>
  * 
  * The function always return positive integer, all minus sign in string would be discard.<br>
  *
@@ -36,7 +36,7 @@ public class MyStrToInt {
 	 * @param b
 	 * @return
 	 */
-	public double pow(int a, int b) {
+	private double pow(int a, int b) {
 
 		double result = 1;
 
