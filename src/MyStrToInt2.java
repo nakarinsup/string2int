@@ -2,7 +2,7 @@
 public class MyStrToInt2 {
 	
 	
-	public int getNumber(char character) {
+	protected int getNumber(char character) {
 		
 		char zero = '0';
 		char nine = '9'; 
